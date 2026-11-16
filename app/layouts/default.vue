@@ -32,10 +32,12 @@
     </v-layout>
 </template>
 
+
 <script setup>
 const rail = ref(true)
 const headerHeight = 64
 </script>
+
 
 <style scoped>
 /* ---------- Main Layout ---------- */
